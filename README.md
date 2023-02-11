@@ -45,6 +45,6 @@ The script is only tested on following environment,
 
 Copyright (c) 2023-present [Yong-Xin Technology Ltd.](https://yong-xin.tech/)
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/yongxin-tech/Powershell-Simple-Code-Obfuscator/blob/main/LICENSE) file for details.
 
 
