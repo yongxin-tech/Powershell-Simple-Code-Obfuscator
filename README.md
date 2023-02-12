@@ -14,6 +14,8 @@ The script is only tested on following environment,
 * OS: Windows 10+
 * ISE: Powershell 7.x
 
+Bash/MacOS version, see: [Simple Code Obfuscator - MacOS bash](https://github.com/yongxin-tech/Bash-Simple-Code-Obfuscator)
+
 # Usage
 
 * Recommend: The script will overwrite the file directly, better use it on a separate branch
